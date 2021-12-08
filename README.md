@@ -1,5 +1,6 @@
 Tris is geometry package from exc of open education 
 course fall 2021.
+Используется добавление методов, перегрузка операторов. Собрано в пакет.
 
 Задача
 
